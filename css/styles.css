@@ -291,6 +291,7 @@ main {
   color: var(--grey-400);
   font-size: 13px;
   line-height: 23px;
+  margin-left: 19px;
 }
 .product-preview-card .box {
   box-shadow: inset 0px 0px 0px 1px var(--grey-400);
