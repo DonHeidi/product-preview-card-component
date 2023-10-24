@@ -1,0 +1,21 @@
+{
+  "name": "product-preview-card-component",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A product preview card component challenge from Frontend Mentor",
+  "scripts": {
+    "sass:watch": "sass --watch scss:css",
+    "sass:build": "sass scss:css --style compressed"
+  },
+  "author": "me@sebastian-heitmann.dev",
+  "license": "ISC",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
+    "sass": "^1.68.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
